@@ -1,0 +1,11 @@
+# Certifications
+
+This directory contains professional certifications earned through DataCamp, demonstrating skills in data analysis, data science, and data engineering.
+
+## DataCamp Certifications
+
+| Certification       | Certificate                                       | Verification                        |
+| ------------------- | ------------------------------------------------- | ----------------------------------- |
+| Data Analyst (DA)   | [View Certificate](./data-analyst.pdf)   | [Verify](https://www.datacamp.com/certificate/DA0027297722473) |
+| Data Scientist (DS) | [View Certificate](./data-scientist.pdf) | [Verify](https://www.datacamp.com/certificate/DS0023737247581) |
+| Data Engineer (DE)  | [View Certificate](./data-engineer.pdf)  | [Verify](https://www.datacamp.com/certificate/DE0018372951561) |
