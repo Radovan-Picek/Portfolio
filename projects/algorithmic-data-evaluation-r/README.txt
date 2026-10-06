@@ -1,1 +1,0 @@
-Každý úkol má svoji samostatnou složku pro větší přehlednost. Po extrahování je možné oba skripty pustit v jejich složce a proběhnou hladce (Pozor pouze na #"install.packages("ggplot2"), jestli necháte proběhnout tento řádek nebo ne).
